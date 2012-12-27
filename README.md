@@ -1,0 +1,4 @@
+sggwmgr
+=======
+
+Master Thesis project 
